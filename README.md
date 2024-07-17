@@ -18,6 +18,9 @@ Data Warehousing is a crucial component of modern data management and analytics,
 
 ## Practical Applications of Data Warehousing
 
+![Screenshot](/Images/Practical Applications of Data Warehousing.png)
+
+
 1. **Business Intelligence (BI)**: Data warehouses serve as the foundation for BI tools, enabling complex queries, report generation, and data visualization for informed decision-making.
 
 2. **Advanced Analytics**: Supporting techniques like predictive analytics and data mining, data warehouses uncover insights that drive innovation and efficiency within organizations.
