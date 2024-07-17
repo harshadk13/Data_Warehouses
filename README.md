@@ -51,6 +51,8 @@ Data Warehousing goes beyond data storage it organizes, integrates, and analyzes
 
 Data Warehousing is built upon several foundational concepts that are essential for successful implementations. These concepts enable organizations to consolidate disparate data sources, support complex analytics, and facilitate informed decision-making at scale. This README explores each of these key concepts in detail.
 
+![Screenshot](Images/DataWarehouseKeyConcepts.png)
+
 ## 1. Dimensional Modeling
 
 **Definition:** Dimensional modeling structures data in a data warehouse to optimize querying and analytics.
