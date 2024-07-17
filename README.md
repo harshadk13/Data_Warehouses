@@ -304,6 +304,9 @@ To optimize data accessibility, analysis, and business intelligence:
 
 The ETL (Extract, Transform, Load) process is a fundamental component of data integration and warehousing, essential for preparing data for analysis and decision-making. This README explores each stage of the ETL process in detail, discussing their importance, challenges, best practices, and real-world examples.
 
+![Screenshot](Images/etlprocess.png)
+
+
 ## 1. Extract
 
 ### Purpose
